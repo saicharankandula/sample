@@ -16,7 +16,7 @@ import logging,logging.handlers
 # logger.addHandler(ch)
 #
 # # 'application' code
-# # logger.debug('debug message')
+# # logger.debug('debug messatryrge')
 # # logger.info('info message')
 # logger.warn('warn message')
 # # logger.error('error message')
